@@ -1,4 +1,4 @@
-# SouthReusableAssets
+# CSU IP and Other Reusable Assets
  IP and use case assets for CSU
 ## The concept of a shared IP repository is supported by the notion that CSAs are building bespoke components for customers which have the likelihood of shareability across all OUs at Microsoft. Similar to Enterprise-Scale architecture or landing zone strategies, this repository is meant to provide a place for CSAs to showcase their work while providing other CSAs access to utilize shared assets without recreating the wheel everytime.  This repository is NOT intended to replace Azure Landing Zones (Enterprise-Scale) which are designed to support organizations at any scale point, providing a strategic design path and target technical state for Azure environments. This repo is intended to share reusable components on top of the Azure Landing Zone architecture scaffolding.
 
