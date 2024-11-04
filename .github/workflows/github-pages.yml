@@ -2,7 +2,7 @@ name: South Region Reusable Assets
 
 on:
   push:
-    branches: [ gh-pages ]
+    branches: [ main ]
 
 jobs:
   build-deploy:
@@ -13,8 +13,9 @@ jobs:
       with:
         ruby-version: 2.7.2 # Not needed with a .ruby-version file
         bundler-cache: true
+        cache-version: 0
     - run: bundle exec jekyll build
     - name: Deploy site
       with:
         build-dir: _site
-      uses:  MSUSAzureAccelerators/SouthReusableAssets/deploy_jamstack_action@gh-pages
+      uses:  MSUSAzureAccelerators/SouthReusableAssets/deploy_jamstack_action@main
