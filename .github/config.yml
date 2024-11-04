@@ -23,5 +23,60 @@ firstPRMergeComment: "Congrats on getting your first pull request to Jekyll Remo
 contact_links: []
 gems:
   - jekyll-remote-theme
+
+# Plugins
 plugins:
+  - jekyll-seo-tag
+  - jekyll-avatar
+  - jekyll-github-metadata
+  - jekyll-feed
   - jekyll-remote-theme
+  
+remote_theme: https://github.com/benbalter/retlab
+
+title: South Reusable Assets
+description: A shared repository including business use cases and code snippets with fully enclosed AI projects that can be repurposed entirely or in part by your architects and technical project resources covering all facets of Azure AI including OpenAI, AzureML and AI Search.
+
+lang: en-US
+
+# Pages to include in header navigation
+nav_pages:
+  - index.html
+  - talks.md
+  - press.md
+  - about.md
+  - contact.md
+
+# Pages to include in footer navigation
+footer_pages:
+  - books.md
+  - fine-print.md
+
+
+# Links to include on the contact page
+contact_links:
+  - name: Twitter
+    url: https://twitter.com/laura_e_edell
+    icon: twitter
+  - name: LinkedIn
+    url: https://linkedin.com/in/lauraerinedell
+    icon: linkedin
+
+# Front matter defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      comments: true
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+      comments: false
+
+
