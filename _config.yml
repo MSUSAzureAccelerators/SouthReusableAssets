@@ -1,0 +1,6 @@
+# south-region-use-case-code-repository/_config.yml
+title: "South Region Use Case Code Repository"
+description: "A repository sharing code and business use cases for the South Region"
+theme: jekyll-theme-cayman
+baseurl: "/SouthReusableAssets"
+url: "https://MSUSAzureAccelerators.github.io"
