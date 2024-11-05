@@ -5,9 +5,9 @@ Welcome to the South Region Use Case Code Repository! This is a space dedicated 
 ![image](https://github.com/user-attachments/assets/bbc782d7-e0e1-4b32-87d0-ea2ce0d0b586)
 
 ## Reusable Code and End-to-End Accelerators Catalog ![image](https://github.com/user-attachments/assets/ef566fb1-a9d1-4ef0-b011-a00f8fd08815)
-
-|  Solution Accelerator    |  Description        |  Status   |  Technology Stack      |  Manufacturing      |  Retail & CPG     |  Financial Svs      |  Healthcare      |  Other    |
-|--------------------------|---------------------|----------|-------------------------|---------------------|-------------------|---------------------|------------------|-----------|
+<br></br>
+|  Solution Accelerator    |  Description        |  Status  |  Technology Stack    |  Manufacturing      |  Retail & CPG     |  Financial Svs      |  Healthcare      |  Other    |
+|--------------------------|---------------------|----------|----------------------|---------------------|-------------------|---------------------|------------------|-----------|
 | **Customer Complaint Management**|	Customer Contact Center inbound complaints management. | Completed | Synapse, AML, Cognitive Search, AKS, PowerApps | <div style="text-align: center;">o</div> |<div style="text-align: center;"> ● </div>|<div style="text-align: center;">●</div>|<div style="text-align: center;">●</div>|<div style="text-align: center;">●</div>|
 | **Retail Analytics**     | Tools and scripts for analyzing retail performance. | Completed | Retail Cloud, M365 |	●	| ● |	● |	● |	● |
 | **Customer Segmentation**| Machine learning models for customer segmentation. | In Progress | OpenAI, M365, People Graph |	●	| ● |	● |	● |	● |
