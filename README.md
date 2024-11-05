@@ -45,13 +45,13 @@ Virtual Assistant Deployer	Bot Framework, Visual Studio Code, Docker	●	●	●
 
 
 ---
----
+
 ## Code and Use Cases
 
 - [Project 1: Retail Analytics](projects/retail-analytics)
 - [Project 2: Customer Segmentation](projects/customer-segmentation)
 - [Project 3: Customer Complaint Management](https://aka.ms/CustomerComplaintManagement_SolutionAccelerator)
-- 
+  
 ---
 Feel free to explore and contribute!
 
