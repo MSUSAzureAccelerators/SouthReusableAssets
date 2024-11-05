@@ -36,6 +36,10 @@ remote_theme: https://github.com/benbalter/retlab
 
 title: South Reusable Assets
 description: A shared repository including business use cases and code snippets with fully enclosed AI projects that can be repurposed entirely or in part by your architects and technical project resources covering all facets of Azure AI including OpenAI, AzureML and AI Search.
+# south-region-use-case-code-repository/_config.yml
+theme: jekyll-theme-cayman
+baseurl: "/south-region-use-case-code-repository"
+url: "https://your-github-username.github.io"
 
 lang: en-US
 
