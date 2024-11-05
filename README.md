@@ -1,9 +1,12 @@
+
+
 # South Region Use Case Code Repository
 
 Welcome to the South Region Use Case Code Repository! This is a space dedicated to sharing code, projects, and business case studies focused on the needs of the South Region.
 
-![image](https://github.com/user-attachments/assets/bbc782d7-e0e1-4b32-87d0-ea2ce0d0b586)
 
+
+---
 ## Reusable Code and End-to-End Accelerators Catalog ![image](https://github.com/user-attachments/assets/ef566fb1-a9d1-4ef0-b011-a00f8fd08815)
 <br></br>
 |  Solution Accelerator    |  Description        |  Status  |  Technology Stack    |  Manufacturing      |  Retail & CPG     |  Financial Svs      |  Healthcare      |  Other    |
@@ -40,17 +43,16 @@ Relationship Mesh Solution Accelerator	Synapse, ADLS, Power BI, Microsoft Graph	
 Tradable Digital Assets	Azure Blockchain, Cosmos DB, AKS, KeyVault, Container Registry	●	●	●	●	●
 Virtual Assistant Deployer	Bot Framework, Visual Studio Code, Docker	●	●	●	●	●
 
-![image](https://github.com/user-attachments/assets/bbc782d7-e0e1-4b32-87d0-ea2ce0d0b586)
 
+---
+---
 ## Code and Use Cases
 
 - [Project 1: Retail Analytics](projects/retail-analytics)
 - [Project 2: Customer Segmentation](projects/customer-segmentation)
 - [Project 3: Customer Complaint Management](https://aka.ms/CustomerComplaintManagement_SolutionAccelerator)
-
+- 
+---
 Feel free to explore and contribute!
 
----
-layout: default
-title: "South Region Use Case Code Repository"
----
+
